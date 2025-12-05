@@ -1,6 +1,6 @@
 # Dimension pédagogique – Mission Kawa Market
 
-Cette mission simule une intervention réelle en entreprise :
+Cette mission vise :
 - **Compréhension métier** → reformuler le besoin pour des publics variés.
 - **Nettoyage de données réelles** → gestion de formats hétérogènes, valeurs manquantes, incohérences.
 - **Conception analytique** → choix des KPI, modélisation en étoile, calcul de marges.
